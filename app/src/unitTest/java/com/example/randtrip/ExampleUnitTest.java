@@ -1,4 +1,4 @@
-package com.example.randtrip;
+package com.example.databases;
 
 import org.junit.Test;
 
